@@ -83,7 +83,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 For questions, suggestions, or collaborations, feel free to reach out:
 
-- **Email**: srishtighosh.official.com
+- **Email**: srishtighosh.official@gmail.com
 - **GitHub**: [Srishti-Ghosh](https://github.com/Srishti-Ghosh)
 
 Happy coding and exploring physics!
