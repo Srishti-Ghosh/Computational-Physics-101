@@ -28,8 +28,8 @@ pip install numpy scipy sympy
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your-username/computational-physics-101.git
-   cd computational-physics-101
+   git clone https://github.com/Srishti-Ghosh/Computational-Physics-101.git
+   cd Computational-Physics-101
    ```
 
 2. **Run Example Scripts**:
